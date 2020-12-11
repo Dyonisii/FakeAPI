@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "src": "https://i.ibb.co/6PxCpK0/2020-12-11-103713.png",
+      "alt": "img1",
+      "url": "http://uii.zzz.com.ua/"
+    },
+    {
+      "id": 2,
+      "src": "https://i.ibb.co/jHK7Lgy/2020-12-11-115217.png",
+      "alt": "img2",
+      "url": "http://uii.zzz.com.ua/iindex.html"
+    },
+    {
+      "id": 3,
+      "src": "https://i.ibb.co/bzcSM1t/2020-12-11-115258.png",
+      "alt": "img3",
+      "url": "http://txp.zzz.com.ua/about"
+    }
+  ]
+}
